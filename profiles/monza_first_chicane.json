@@ -1,0 +1,19 @@
+{
+  "profile_version": 1,
+  "track": "monza",
+  "track_configuration": "",
+  "track_length_m": 5755.02,
+  "corner_name": "First chicane",
+  "corner_position": null,
+  "calibration_source": "uncalibrated",
+  "calibration_min_position": 0.123,
+  "calibration_max_position": 0.178,
+  "location_evidence": "Installed original Monza data/sections.ini: starting straight ends 0.123; Prima Variante 0.151–0.178",
+  "lead_time_s": 3.0,
+  "launch_margin_s": 0.35,
+  "minimum_finish_margin_s": 1.0,
+  "maximum_approach_distance_m": 1600.0,
+  "minimum_continuous_distance_m": 100.0,
+  "minimum_speed_kmh": 30.0,
+  "maximum_sample_age_s": 0.25
+}
